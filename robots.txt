@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://liveroulette-au.com/sitemap.xml
